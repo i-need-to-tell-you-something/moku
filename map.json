@@ -199,9 +199,14 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"table13"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/lichess.org\/3YrT1ppz"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -465,7 +470,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
